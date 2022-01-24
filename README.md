@@ -1,40 +1,12 @@
 # Codewars
 
 # | Мои решения
-<details>
-<summary># 8-kyu  </summary>
-    <details>
-    <summary> 1. Opposite number </summary>
+***
 
-**Very simple, given an integer or a floating-point number, find its opposite.**
-    </details>
-    <details>
-    <summary> 2. Even or Odd </summary>
+### | 8-kyu 
+* [CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) - [Even or Odd](8-kyu/Even or odd/index.js) 
+* [CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) - [Opposite number](8-kyu/Opposite number/index.js)
 
-  **Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.**
-    </details>
-</details>
-<details>
-<summary> # 7-kyu</summary>
-    <details>
-    <summary> 1. Anagram Detection </summary> 
-
-    
-**An anagram is the result of rearranging the letters of a word to produce a new word (see wikipedia).**
-
-Note: anagrams are case insensitive
-
-Complete the function to return true if the two arguments given are anagrams of each other; return false otherwise.
-    </details>
-    <details>
-    <summary> 2. Highest and Lowest </summary>
-
-**In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.** 
- 
-Notes:
-
-1. All numbers are valid Int32, no need to validate them.
-2. There will always be at least one number in the input string.
-3. Output string must be two numbers separated by a single space, and highest number is first.
-    </details>
-</details>
+### | 7-kyu
+* [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram Detection/index.js)
+* [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](8-kyu/Highest and Lowest/index.js)
