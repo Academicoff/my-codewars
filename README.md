@@ -19,3 +19,14 @@
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
 * [CodeWars](https://www.codewars.com/kata/56606694ec01347ce800001b/train/javascript) - [Is this a triangle](7-kyu/Is%20this%20a%20triangle/index.js)
 * [CodeWars](https://www.codewars.com/kata/isograms/train/javascript) - [Isograms](7-kyu/Isograms/index.js)
+* [CodeWars](https://www.codewars.com/kata/mumbling/train/javascript) - [Mumbling](7-kyu/Mumbling/index.js)
+* [CodeWars](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/train/javascript) - [Palindrome String](7-kyu/Palindrome%20Strings/index.js)
+* [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7-kyu/Two%20to%20One/index.js)
+* [CodeWars](https://www.codewars.com/kata/vowel-count/train/javascript) - [Vowel Count](7-kyu/Vowel%20Count/index.js)
+
+<p><h1>
+6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
+
+* [CodeWars](https://www.codewars.com/kata/playing-with-digits/train/javascript) - [Playing with digits](6-kyu/Playing%20with%20digits/index.js)
+* [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript) - [Replace With Alphabet Position](6-kyu/Replace%20With%20Alphabet%20Position/index.js)
+
