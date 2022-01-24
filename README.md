@@ -1,7 +1,10 @@
 # Codewars
-<p><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Academicoff&badge&alias_only&colormode=dark_mode</a></p>
+![Codewars](https://www.codewars.com/users/Academicoff/badges/large)
 
-# | Мои решения
+![GitHub last commit](https://img.shields.io/github/last-commit/Academicoff/my-codewars)
+![Lines of code](https://img.shields.io/tokei/lines/github/Academicoff/my-codewars)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Academicoff/my-codewars)
+![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 ***
 <p><h1>
 8-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
