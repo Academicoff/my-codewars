@@ -9,4 +9,4 @@
 
 ### | 7-kyu
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram Detection/index.js)
-* [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](8-kyu/Highest and Lowest/index.js)
+* [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](8-kyu/Highest%and%Lowest/index.js)
