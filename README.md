@@ -1,4 +1,5 @@
 # Codewars
+<p><img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Academicoff&badge&alias_only&colormode=dark_mode</a></p>
 
 # | Мои решения
 ***
