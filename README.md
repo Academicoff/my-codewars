@@ -33,6 +33,7 @@
 * [CodeWars](https://www.codewars.com/kata/century-from-year/train/javascript) - [Century From Year](7-kyu/Century%20From%20Year/index.js)
 * [CodeWars](https://www.codewars.com/kata/greatest-common-divisor/train/javascript) - [Greatest common divisor](7-kyu/Greatest%20common%20divisor/index.js)
 * [CodeWars](https://www.codewars.com/kata/factorial/javascript) - [Factorial](7-kyu/Factorial/index.js)
+* [CodeWars](https://www.codewars.com/kata/squares-sequence/train/javascript) - [Squares sequence](7-kyu/Squares%20sequence/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
