@@ -13,15 +13,16 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 ***
 <p><h1>
-8-kyu |  <img src="https://img.shields.io/badge/complete-4%20tasks-success")/></a></h1></p>
+8-kyu |  <img src="https://img.shields.io/badge/complete-5%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) - [Even or Odd](8-kyu/Even%20or%20Odd/index.js) 
 * [CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) - [Opposite number](8-kyu/Opposite%20number/index.js)
 * [CodeWars](https://www.codewars.com/kata/sum-of-positive/train/javascript) - [Sum of positive](8-kyu/Sum%20of%20positive/index.js)
 * [CodeWars](https://www.codewars.com/kata/removing-elements/train/javascript) - [Removing Elements](8-kyu/Removing%20Elements/index.js)
+* [CodeWars](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) - [Remove duplicates from list](8-kyu/Remove%20duplicates%20from%20list/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-14%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-15%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -37,6 +38,7 @@
 * [CodeWars](https://www.codewars.com/kata/squares-sequence/train/javascript) - [Squares sequence](7-kyu/Squares%20sequence/index.js)
 * [CodeWars](https://www.codewars.com/kata/concatenated-sum/train/javascript) - [Concatenated Sum](7-kyu/Concatenated%20Sum/index.js)
 * [CodeWars](https://www.codewars.com/kata/filter-the-number/train/javascript) - [Filter the number](7-kyu/Filter%20the%20number/index.js)
+* [CodeWars](https://www.codewars.com/kata/char-code-calculation/train/javascript) - [Char Code Calculation](7-kyu/Char%20Code%20Calculation/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
