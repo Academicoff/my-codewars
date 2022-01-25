@@ -39,6 +39,7 @@
 * [CodeWars](https://www.codewars.com/kata/concatenated-sum/train/javascript) - [Concatenated Sum](7-kyu/Concatenated%20Sum/index.js)
 * [CodeWars](https://www.codewars.com/kata/filter-the-number/train/javascript) - [Filter the number](7-kyu/Filter%20the%20number/index.js)
 * [CodeWars](https://www.codewars.com/kata/char-code-calculation/train/javascript) - [Char Code Calculation](7-kyu/Char%20Code%20Calculation/index.js)
+* [CodeWars](https://www.codewars.com/kata/57f8842367c96a89dc00018e/train/javascript) - [Cat and Mouse - 2D Version](7-kyu/Cat%20and%20Mouse%20-%202D%20Version/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
