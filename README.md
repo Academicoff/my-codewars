@@ -7,14 +7,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 ***
 <p><h1>
-8-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
+8-kyu |  <img src="https://img.shields.io/badge/complete-3%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) - [Even or Odd](8-kyu/Even%20or%20Odd/index.js) 
 * [CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) - [Opposite number](8-kyu/Opposite%20number/index.js)
 * [CodeWars](https://www.codewars.com/kata/sum-of-positive/train/javascript) - [Sum of positive](8-kyu/Sum%20of%20positive/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-4%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-9%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -24,6 +24,7 @@
 * [CodeWars](https://www.codewars.com/kata/57a5015d72292ddeb8000b31/train/javascript) - [Palindrome String](7-kyu/Palindrome%20Strings/index.js)
 * [CodeWars](https://www.codewars.com/kata/two-to-one/train/javascript) - [Two to One](7-kyu/Two%20to%20One/index.js)
 * [CodeWars](https://www.codewars.com/kata/vowel-count/train/javascript) - [Vowel Count](7-kyu/Vowel%20Count/index.js)
+* [CodeWars](https://www.codewars.com/kata/century-from-year/train/javascript) - [Century From Year](7-kyu/Century%20From%20Year/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
