@@ -13,11 +13,12 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 ***
 <p><h1>
-8-kyu |  <img src="https://img.shields.io/badge/complete-3%20tasks-success")/></a></h1></p>
+8-kyu |  <img src="https://img.shields.io/badge/complete-4%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) - [Even or Odd](8-kyu/Even%20or%20Odd/index.js) 
 * [CodeWars](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) - [Opposite number](8-kyu/Opposite%20number/index.js)
 * [CodeWars](https://www.codewars.com/kata/sum-of-positive/train/javascript) - [Sum of positive](8-kyu/Sum%20of%20positive/index.js)
+* [CodeWars](https://www.codewars.com/kata/removing-elements/train/javascript) - [Removing Elements](8-kyu/Removing%20Elements/index.js)
 
 <p><h1>
 7-kyu |  <img src="https://img.shields.io/badge/complete-14%20tasks-success")/></a></h1></p>
