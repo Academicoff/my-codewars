@@ -1,5 +1,11 @@
-# Codewars
-![Codewars](https://www.codewars.com/users/Academicoff/badges/large)
+
+
+<h1 class="text">Codewars Profile</h1>
+<div>
+  <a target="_blank" href="https://www.codewars.com/users/Academicoff"><img src="https://www.codewars.com/users/Academicoff/badges/large" alt="codewars badge large" /></a>
+</div>
+
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Academicoff/my-codewars)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Academicoff/my-codewars)
