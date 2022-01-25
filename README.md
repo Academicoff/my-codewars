@@ -20,7 +20,7 @@
 * [CodeWars](https://www.codewars.com/kata/sum-of-positive/train/javascript) - [Sum of positive](8-kyu/Sum%20of%20positive/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-10%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-11%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -32,6 +32,7 @@
 * [CodeWars](https://www.codewars.com/kata/vowel-count/train/javascript) - [Vowel Count](7-kyu/Vowel%20Count/index.js)
 * [CodeWars](https://www.codewars.com/kata/century-from-year/train/javascript) - [Century From Year](7-kyu/Century%20From%20Year/index.js)
 * [CodeWars](https://www.codewars.com/kata/greatest-common-divisor/train/javascript) - [Greatest common divisor](7-kyu/Greatest%20common%20divisor/index.js)
+* [CodeWars](https://www.codewars.com/kata/factorial/javascript) - [Factorial](7-kyu/Factorial/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
