@@ -44,6 +44,7 @@
 * [CodeWars](https://www.codewars.com/kata/shortest-word/train/javascript) - [Shortest Word](7-kyu/Shortest%20Word/index.js)
 * [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7-kyu/Square%20Every%20Digit/index.js)
 * [CodeWars](https://www.codewars.com/kata/5884d46015a70f6cd7000035/train/javascript) - [Playing with Sets : Intersection](7-kyu/Playing%20with%20Sets%20Intersection/index.js)
+* [CodeWars](https://www.codewars.com/kata/divide-and-conquer/train/javascript) - [Divide and Conquer](7-kyu/Divide%20and%20Conquer/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>

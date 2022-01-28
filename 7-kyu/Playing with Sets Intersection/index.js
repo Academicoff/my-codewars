@@ -5,3 +5,8 @@ function inter(s1, s2){
 }
 
 //списал!!! изучать ...new Set, filter и includes 28/01/2022
+
+//### Best solution
+//function inter(s1, s2){
+//   return new Set( [...s1].filter( e => s2.has(e) ) )
+// }
