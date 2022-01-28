@@ -22,7 +22,7 @@
 * [CodeWars](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) - [Remove duplicates from list](8-kyu/Remove%20duplicates%20from%20list/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-18%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-19%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -39,9 +39,11 @@
 * [CodeWars](https://www.codewars.com/kata/concatenated-sum/train/javascript) - [Concatenated Sum](7-kyu/Concatenated%20Sum/index.js)
 * [CodeWars](https://www.codewars.com/kata/filter-the-number/train/javascript) - [Filter the number](7-kyu/Filter%20the%20number/index.js)
 * [CodeWars](https://www.codewars.com/kata/char-code-calculation/train/javascript) - [Char Code Calculation](7-kyu/Char%20Code%20Calculation/index.js)
-* [CodeWars](https://www.codewars.com/kata/57f8842367c96a89dc00018e/train/javascript) - [Cat and Mouse - 2D Version](7-kyu/Cat%20and%20Mouse%20-%202D%20Version/index.js)
+* [CodeWars](https://www.codewars.com/kata/57f8842367c96a89dc00018e/train/javascript) - [Cat and Mouse - 2D](7-kyu/Cat%20and%20Mouse%20-%202D%20Version/index.js)
 * [CodeWars](https://www.codewars.com/kata/find-the-capitals/train/javascript) - [Find the Capitals](7-kyu/Find%20the%20Capitals/index.js)
 * [CodeWars](https://www.codewars.com/kata/shortest-word/train/javascript) - [Shortest Word](7-kyu/Shortest%20Word/index.js)
+* [CodeWars](https://www.codewars.com/kata/square-every-digit/train/javascript) - [Square Every Digit](7-kyu/Square%20Every%20Digit/index.js)
+* [CodeWars](https://www.codewars.com/kata/5884d46015a70f6cd7000035/train/javascript) - [Playing with Sets : Intersection](7-kyu/Playing%20with%20Sets%20Intersection/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
