@@ -22,7 +22,7 @@
 * [CodeWars](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) - [Remove duplicates from list](8-kyu/Remove%20duplicates%20from%20list/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-19%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-21%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -47,8 +47,9 @@
 * [CodeWars](https://www.codewars.com/kata/divide-and-conquer/train/javascript) - [Divide and Conquer](7-kyu/Divide%20and%20Conquer/index.js)
 
 <p><h1>
-6-kyu |  <img src="https://img.shields.io/badge/complete-2%20tasks-success")/></a></h1></p>
+6-kyu |  <img src="https://img.shields.io/badge/complete-3%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/playing-with-digits/train/javascript) - [Playing with digits](6-kyu/Playing%20with%20digits/index.js)
 * [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript) - [Replace With Alphabet Position](6-kyu/Replace%20With%20Alphabet%20Position/index.js)
+* [CodeWars](https://www.codewars.com/kata/find-the-odd-int/train/javascript) - [Find the odd int](6-kyu/Find%20the%20odd%20int/index.js)
 
