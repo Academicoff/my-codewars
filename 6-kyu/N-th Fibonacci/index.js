@@ -11,3 +11,14 @@ function nthFibo(n) {
     }
     return b;
 }
+
+//add Best Solution
+//function nthFibo(n) {
+//   return n < 2 ? 0 : n == 2 ? 1 : nthFibo(n-1) + nthFibo(n-2);
+// }
+
+// function nthFibo(n) {
+//     let [prev, curr] = [0, 1];
+//     for (let i = 1; i < n; i++) [prev, curr] = [curr, prev + curr];
+//     return prev;
+// }
