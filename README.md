@@ -57,4 +57,5 @@
 * [CodeWars](https://www.codewars.com/kata/zipWith/train/javascript) - [zipWith](6-kyu/zipWith/index.js)
 * [CodeWars](https://www.codewars.com/kata/duplicate-encoder/train/javascript) - [Duplicate Encoder](6-kyu/Duplicate%20Encoder/index.js)
 * [CodeWars](https://www.codewars.com/kata/n-th-fibonacci/train/javascript) - [N-th Fibonacci](6-kyu/N-th%20Fibonacci/index.js)
+* [CodeWars](https://www.codewars.com/kata/friday-the-13ths/train/javascript) - [Friday the 13ths](6-kyu/Friday%20the%2013ths/index.js)
 
