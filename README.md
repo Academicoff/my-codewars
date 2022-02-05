@@ -47,7 +47,7 @@
 * [CodeWars](https://www.codewars.com/kata/divide-and-conquer/train/javascript) - [Divide and Conquer](7-kyu/Divide%20and%20Conquer/index.js)
 
 <p><h1>
-6-kyu |  <img src="https://img.shields.io/badge/complete-6%20tasks-success")/></a></h1></p>
+6-kyu |  <img src="https://img.shields.io/badge/complete-7%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/playing-with-digits/train/javascript) - [Playing with digits](6-kyu/Playing%20with%20digits/index.js)
 * [CodeWars](https://www.codewars.com/kata/replace-with-alphabet-position/train/javascript) - [Replace With Alphabet Position](6-kyu/Replace%20With%20Alphabet%20Position/index.js)
@@ -55,4 +55,5 @@
 * [CodeWars](https://www.codewars.com/kata/find-the-parity-outlier/train/javascript) - [Find The Parity Outlier](6-kyu/Find%20The%20Parity%20Outlier/index.js)
 * [CodeWars](https://www.codewars.com/kata/zipWith/train/javascript) - [zipWith](6-kyu/zipWith/index.js)
 * [CodeWars](https://www.codewars.com/kata/duplicate-encoder/train/javascript) - [Duplicate Encoder](6-kyu/Duplicate%20Encoder/index.js)
+* [CodeWars](https://www.codewars.com/kata/n-th-fibonacci/train/javascript) - [N-th Fibonacci](6-kyu/N-th%20Fibonacci/index.js)
 
