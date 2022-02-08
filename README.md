@@ -20,6 +20,7 @@
 * [CodeWars](https://www.codewars.com/kata/sum-of-positive/train/javascript) - [Sum of positive](8-kyu/Sum%20of%20positive/index.js)
 * [CodeWars](https://www.codewars.com/kata/removing-elements/train/javascript) - [Removing Elements](8-kyu/Removing%20Elements/index.js)
 * [CodeWars](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) - [Remove duplicates from list](8-kyu/Remove%20duplicates%20from%20list/index.js)
+* [CodeWars](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023) - [Simple validation of a username with regex](8-kyu/Simple%20validation%20of%20a%20username%20with%20regex/index.js)
 
 <p><h1>
 7-kyu |  <img src="https://img.shields.io/badge/complete-24%20tasks-success")/></a></h1></p>
@@ -60,4 +61,5 @@
 * [CodeWars](https://www.codewars.com/kata/duplicate-encoder/train/javascript) - [Duplicate Encoder](6-kyu/Duplicate%20Encoder/index.js)
 * [CodeWars](https://www.codewars.com/kata/n-th-fibonacci/train/javascript) - [N-th Fibonacci](6-kyu/N-th%20Fibonacci/index.js)
 * [CodeWars](https://www.codewars.com/kata/friday-the-13ths/train/javascript) - [Friday the 13ths](6-kyu/Friday%20the%2013ths/index.js)
+* [CodeWars](https://www.codewars.com/kata/validate-my-password/train/javascript) - [Validate my Password](6-kyu/Validate%20my%20Password/index.js)
 

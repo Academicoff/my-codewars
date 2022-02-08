@@ -1,0 +1,32 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "<h1 class=\"text\">Codewars Profile</h1>\r <div>\r   <a target=\"_blank\" href=\"https://www.codewars.com/users/Academicoff\"><img src=\"https://www.codewars.com/users/Academicoff/badges/large\" alt=\"codewars badge large\" /></a>\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Academicoff/my-codewars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Academicoff/my-codewars/issues"
+  },
+  "homepage": "https://github.com/Academicoff/my-codewars#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
