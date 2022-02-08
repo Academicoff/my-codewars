@@ -22,7 +22,7 @@
 * [CodeWars](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) - [Remove duplicates from list](8-kyu/Remove%20duplicates%20from%20list/index.js)
 
 <p><h1>
-7-kyu |  <img src="https://img.shields.io/badge/complete-23%20tasks-success")/></a></h1></p>
+7-kyu |  <img src="https://img.shields.io/badge/complete-24%20tasks-success")/></a></h1></p>
 
 * [CodeWars](https://www.codewars.com/kata/anagram-detection/train/javascript) - [Anagram detection](7-kyu/Anagram%20Detection/index.js)
 * [CodeWars](https://www.codewars.com/kata/highest-and-lowest/train/javascript) - [Highest and lowest](7-kyu/Highest%20and%20Lowest/index.js)
@@ -47,6 +47,7 @@
 * [CodeWars](https://www.codewars.com/kata/divide-and-conquer/train/javascript) - [Divide and Conquer](7-kyu/Divide%20and%20Conquer/index.js)
 * [CodeWars](https://www.codewars.com/kata/it-is-written-in-the-stars/train/javascript) - [It is written in the stars](7-kyu/It%20is%20written%20in%20the%20stars/index.js)
 * [CodeWars](https://www.codewars.com/kata/counting-array-elements/train/javascript) - [Counting Array Elements](7-kyu/Counting%20Array%20Elements/index.js)
+* [CodeWars](https://www.codewars.com/kata/5f709c8fb0d88300292a7a9d/train/javascript) - [Who is the killer](7-kyu/Who%20is%20the%20killer/index.js)
 
 <p><h1>
 6-kyu |  <img src="https://img.shields.io/badge/complete-8%20tasks-success")/></a></h1></p>
