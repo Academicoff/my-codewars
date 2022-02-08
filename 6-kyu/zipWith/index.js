@@ -1,5 +1,5 @@
-export function zipWith(fn,a0,a1) {
-    arr = [];
+export function zipWith(fn, a0, a1) {
+    let arr = [];
     let length = (a0.length > a1.length) ? a1.length : a0.length;
     for (let i = 0; i < length; i++ ){
         arr.push(fn(a0[i],a1[i]));
