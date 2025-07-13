@@ -16,9 +16,7 @@
 
 ## Прогресс
 - Общее уникальных задач: 37 (JS) + 1 (Python, но пересечения считаем отдельно).
-- Как запускать: 
-  - JS: `node index.js`
-  - Python: `python solution.py` (рекомендую virtualenv с uv для зависимостей).
+
 
 <details>
 <summary>8-kyu | <img src="https://img.shields.io/badge/complete-6%20tasks-success"/></summary>
@@ -26,6 +24,7 @@
 | Задача                  | Codewars Link (JS/Python) | JS Решение | Python Решение |
 |-------------------------|---------------------------|------------|----------------|
 | Even or Odd            | [JS](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) / [Python](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [index.js](8-kyu/Even%20or%20Odd/index.js) | [solution.py](8-kyu/Even%20or%20Odd/solution.py) |
+| Myltiply               | [JS](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript) / [Python](https://www.codewars.com/kata/50654ddff44f800200000004/train/python) | N/A | (8-kyu/Multiply/solution.py)|
 | Opposite number        | [JS](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) / [Python](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python) | [index.js](8-kyu/Opposite%20number/index.js) | N/A |
 | Sum of positive        | [JS](https://www.codewars.com/kata/sum-of-positive/train/javascript) / [Python](https://www.codewars.com/kata/sum-of-positive/train/python) | [index.js](8-kyu/Sum%20of%20positive/index.js) | N/A |
 | Removing Elements      | [JS](https://www.codewars.com/kata/removing-elements/train/javascript) / [Python](https://www.codewars.com/kata/removing-elements/train/python) | [index.js](8-kyu/Removing%20Elements/index.js) | N/A |
