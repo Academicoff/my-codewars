@@ -8,14 +8,15 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 
 ![JS Tasks](https://img.shields.io/badge/JS%20complete-37%20tasks-success)
-![Python Tasks](https://img.shields.io/badge/Python%20complete-1%20task-success)
+![Python Tasks](https://img.shields.io/badge/Python%20complete-4%20task-success)
 
 ***
 
 Этот репозиторий содержит мои решения задач с Codewars. Раньше на JavaScript, теперь добавляю на Python для изучения backend (алгоритмы, структуры данных). Решения в папках по kyu и названию задачи.
 
 ## Прогресс
-- Общее уникальных задач: 37 (JS) + 1 (Python, но пересечения считаем отдельно).
+- Общее уникальных задач: 40.
+- Общее количество задач: 37 (JS) + 4 (Python).
 
 
 <details>
