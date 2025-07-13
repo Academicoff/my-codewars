@@ -3,7 +3,6 @@
 [![Codewars Badge](https://www.codewars.com/users/Academicoff/badges/large)](https://www.codewars.com/users/Academicoff)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Academicoff/my-codewars)
-![Lines of code](https://img.shields.io/tokei/lines/github/Academicoff/my-codewars)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Academicoff/my-codewars)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Academicoff/my-codewars)
 
@@ -15,19 +14,19 @@
 Этот репозиторий содержит мои решения задач с Codewars. Раньше на JavaScript, теперь добавляю на Python для изучения backend (алгоритмы, структуры данных). Решения в папках по kyu и названию задачи.
 
 ## Прогресс
-- Общее уникальных задач: 40.
-- Общее количество задач: 37 (JS) + 4 (Python).
+- Общее уникальных задач: 42.
+- Общее количество задач: 39 (JS) + 4 (Python).
 
 
 <details>
-<summary>8-kyu | <img src="https://img.shields.io/badge/complete-6%20tasks-success"/></summary>
+<summary>8-kyu | <img src="https://img.shields.io/badge/complete-9%20tasks-success"/></summary>
 
 | Задача                  | Codewars Link (JS/Python) | JS Решение | Python Решение |
 |-------------------------|---------------------------|------------|----------------|
 | Even or Odd            | [JS](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript) / [Python](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python) | [index.js](8-kyu/Even%20or%20Odd/index.js) | [solution.py](8-kyu/Even%20or%20Odd/solution.py) |
 | Myltiply               | [JS](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript) / [Python](https://www.codewars.com/kata/50654ddff44f800200000004/train/python) | N/A | [solution.py](8-kyu/Multiply/solution.py)|
-| Are You Playing Banjo? | [JS](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript) / [Python](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python) | N/A | [solution.py](8-kyu/Are%You%Playing%Banjo/solution.py)|
-| Sum Arrays             | [JS](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) / [Python](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python) | N/A | [solution.py](8-kyu/Sum%Arrays/solution.py)|
+| Are You Playing Banjo? | [JS](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript) / [Python](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python) | N/A | [solution.py](8-kyu/Are%20You%20Playing%20Banjo/solution.py)|
+| Sum Arrays             | [JS](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) / [Python](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python) | N/A | [solution.py](8-kyu/Sum%20Arrays/solution.py)|
 | Opposite number        | [JS](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) / [Python](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python) | [index.js](8-kyu/Opposite%20number/index.js) | N/A |
 | Sum of positive        | [JS](https://www.codewars.com/kata/sum-of-positive/train/javascript) / [Python](https://www.codewars.com/kata/sum-of-positive/train/python) | [index.js](8-kyu/Sum%20of%20positive/index.js) | N/A |
 | Removing Elements      | [JS](https://www.codewars.com/kata/removing-elements/train/javascript) / [Python](https://www.codewars.com/kata/removing-elements/train/python) | [index.js](8-kyu/Removing%20Elements/index.js) | N/A |
