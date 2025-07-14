@@ -15,11 +15,11 @@
 
 ## Прогресс
 - Общее уникальных задач: 44.
-- Общее количество задач: 39 (JS) + 7 (Python).
+- Общее количество задач: 39 (JS) + 8 (Python).
 
 
 <details>
-<summary>8-kyu | <img src="https://img.shields.io/badge/complete-9%20tasks-success"/></summary>
+<summary>8-kyu | <img src="https://img.shields.io/badge/complete-12%20tasks-success"/></summary>
 
 | Задача                  | Codewars Link (JS/Python) | JS Решение | Python Решение |
 |-------------------------|---------------------------|------------|----------------|
