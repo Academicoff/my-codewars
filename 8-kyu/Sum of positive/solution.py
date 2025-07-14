@@ -4,3 +4,5 @@ def positive_sum(arr):
         if x > 0:
             total += x
     return total
+
+#return sum(x for x in arr if x > 0)
