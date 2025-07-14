@@ -14,8 +14,8 @@
 Этот репозиторий содержит мои решения задач с Codewars. Раньше на JavaScript, теперь добавляю на Python для изучения backend (алгоритмы, структуры данных). Решения в папках по kyu и названию задачи.
 
 ## Прогресс
-- Общее уникальных задач: 43.
-- Общее количество задач: 39 (JS) + 6 (Python).
+- Общее уникальных задач: 44.
+- Общее количество задач: 39 (JS) + 7 (Python).
 
 
 <details>
@@ -28,9 +28,10 @@
 | Are You Playing Banjo? | [JS](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/javascript) / [Python](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python) | N/A | [solution.py](8-kyu/Are%20You%20Playing%20Banjo/solution.py)|
 | Return Negative        | [JS](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript) / [Python](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/python) | N/A | [solution.py](8-kyu/Return%20Negative/solution.py)|
 | Sum Arrays             | [JS](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/javascript) / [Python](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python) | N/A | [solution.py](8-kyu/Sum%20Arrays/solution.py)|
-| Sum of positive        | [JS](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript) / [Python](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python) | N/A | [solution.py](8-kyu/Sum%20of%20positive/solution.py)|
+| Sum of positive        | [JS](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript) / [Python](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/python) | [index.js](8-kyu/Sum%20of%20positive/index.js) | [solution.py](8-kyu/Sum%20of%20positive/solution.py)|
 | Opposite number        | [JS](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript) / [Python](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python) | [index.js](8-kyu/Opposite%20number/index.js) | N/A |
-| Sum of positive        | [JS](https://www.codewars.com/kata/sum-of-positive/train/javascript) / [Python](https://www.codewars.com/kata/sum-of-positive/train/python) | [index.js](8-kyu/Sum%20of%20positive/index.js) | N/A |
+| Sum of positive        | [JS](https://www.codewars.com/kata/sum-of-positive/train/javascript) / [Python](https://www.codewars.com/kata/sum-of-positive/train/python) | [index.js](8-kyu/Sum%20of%20positive/index.js) | [solution.py](8-kyu/Sum%20of%20positive/solution.py)|
+| Reversed String        | [JS](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) / [Python](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/python) | N/A | [solution.py](8-kyu/Reversed%20Strings/solution.py) |
 | Removing Elements      | [JS](https://www.codewars.com/kata/removing-elements/train/javascript) / [Python](https://www.codewars.com/kata/removing-elements/train/python) | [index.js](8-kyu/Removing%20Elements/index.js) | N/A |
 | Remove duplicates from list | [JS](https://www.codewars.com/kata/remove-duplicates-from-list/train/javascript) / [Python](https://www.codewars.com/kata/remove-duplicates-from-list/train/python) | [index.js](8-kyu/Remove%20duplicates%20from%20list/index.js) | N/A |
 | Simple validation of a username with regex | [JS](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/javascript) / [Python](https://www.codewars.com/kata/56a3f08aa9a6cc9b75000023/train/python) | [index.js](8-kyu/Simple%20validation%20of%20a%20username%20with%20regex/index.js) | N/A |
