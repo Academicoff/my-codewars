@@ -14,12 +14,12 @@
 Этот репозиторий содержит мои решения задач с Codewars. Раньше на JavaScript, теперь добавляю на Python для изучения backend (алгоритмы, структуры данных). Решения в папках по kyu и названию задачи.
 
 ## Прогресс
-- Общее уникальных задач: 45.
-- Общее количество задач: 39 (JS) + 8 (Python).
+- Общее уникальных задач: 48.
+- Общее количество задач: 39 (JS) + 11 (Python).
 
 
 <details>
-<summary>8-kyu | <img src="https://img.shields.io/badge/complete-12%20tasks-success"/></summary>
+<summary>8-kyu | <img src="https://img.shields.io/badge/complete-15%20tasks-success"/></summary>
 
 | Задача                  | Codewars Link (JS/Python) | JS Решение | Python Решение |
 |-------------------------|---------------------------|------------|----------------|
